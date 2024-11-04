@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack Queue Dictionary", "Stack Queue Dictionary\Stack Queue Dictionary.csproj", "{83ACB116-10C7-4683-AB8A-D7DE3BBF8C92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83ACB116-10C7-4683-AB8A-D7DE3BBF8C92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83ACB116-10C7-4683-AB8A-D7DE3BBF8C92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83ACB116-10C7-4683-AB8A-D7DE3BBF8C92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83ACB116-10C7-4683-AB8A-D7DE3BBF8C92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BDC2E3F-BB90-43BD-98F4-357E975943C3}
+	EndGlobalSection
+EndGlobal
